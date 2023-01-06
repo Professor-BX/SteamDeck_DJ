@@ -23,6 +23,11 @@ https://github.com/ChrisTitusTech/winutil
 
 https://github.com/JamesCJ60/AMD-APU-Tuning-Utility/releases/tag/2.0.5.8
 
+Windows Download Shortcut: https://github.com/JamesCJ60/AMD-APU-Tuning-Utility/releases/download/2.0.5.8/AATU.Standard.zip
+
+Load the AATU preset file above in your AATU folder after you unzip it but before first run. Then go to the "custom scripts" section and select the "HiTDP DJ" Preset from the drop down and apply. 
+(Little note: the Steam Deck's version of TDP is weird. Honestly going above 15w doesn't really do much, but I've seen fewer dips when running at over 15w. Truthfully it could be just snake oil, but I choose to believe.....cue Mulder voice over.)
+
 SWICD Key Map: for Serato DJ navigation/track load/browse use. 
 
 ***after installing SWICD, drop the folder above in your documents folder. We could also go with Windows Steam Deck Tools as a driver, but the key rempapping capabilities are not as comprehensive as in SWICD, and not suitable for use as a Serato Key Map navigation assistant.
