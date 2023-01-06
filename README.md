@@ -11,6 +11,8 @@ You will need the following tools:
 
 -Steamdeck Windows Usermode Driver (for joystick mapping)
 
+(PLEEEEAASSSEEEE.....if you are running steam then make sure to disable the driver before launching steam, or you will get double key presses. As well, if you have Steam installed, then 100% make sure to turn off auto launch before you use this, as again, double key presses are kind of the worst.)
+
 https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver
 
 -Chris Titus Optimizer utility (will provide instructions on what to use in later video)
