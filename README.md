@@ -13,7 +13,11 @@ You will need the following tools:
 
 https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver
 
--Debloat Script above (if not using a Windows Lite install)
+-Chris Titus Optimizer utility (will provide instructions on what to use in later video)
+
+https://github.com/ChrisTitusTech/winutil
+
+(please note, not necessary if using a Windows Lite install, this is mainly for getting rid of the junk if using a standard Windows install as, well, there is a lot of junk that you don't need.)
 
 -AMD APU Tuning Utility (V2.0.5.8, currrent XUTU beta does not work for enough users that you should just go for what we know works. You won't get anything extra that is necessary for this setup by using the new version anyway.)
 
